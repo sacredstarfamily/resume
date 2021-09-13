@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Caleb Wall Resume"
+description: "A resume made with Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -11,12 +11,12 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 
-resume_name:                    "GitHub Teacher"
-resume_title:                   "Professional Trainer"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
-resume_contact_address:         "San Francisco, California"
-resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | services@github.com"
+resume_name:                    "Caleb Wall"
+resume_title:                   "Fullstack Developer"
+resume_contact_email:           "sunamongus@gmail.com"
+resume_contact_telephone:       "//"
+resume_contact_address:         "Mount Shasta, California"
+resume_header_contact_info: "Mount Shasta, California | // | sunamonug@gmail.com"
 resume_header_intro: "<p>Charting the knowledge of the Internet, just like Galileo charted the stars.</p>"
 
 
