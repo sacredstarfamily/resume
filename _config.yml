@@ -16,8 +16,8 @@ resume_title:                   "Fullstack Developer"
 resume_contact_email:           "sunamongus@gmail.com"
 resume_contact_telephone:       "//"
 resume_contact_address:         "Mount Shasta, California"
-resume_header_contact_info: "Mount Shasta, California | // | sunamonug@gmail.com"
-resume_header_intro: "<p>Charting the knowledge of the Internet, just like Galileo charted the stars.</p>"
+resume_header_contact_info: "Mount Shasta, California | // | sunamongus@gmail.com"
+resume_header_intro: "<p>&#z2743; Having fun living life just like Galileo charted the stars.</p>"
 
 
 # use "yes" to display the email contact button,
@@ -44,9 +44,9 @@ resume_social_links:
   resume_twitter_url:           "http://twitter.com/maykinfund"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/caleb-wall-2b6163210"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://sacredstarfamily.com"
+  resume_website_url:           "https://maykinfund.com"
 resume_print_social_links:      true
 
 # Design settings
