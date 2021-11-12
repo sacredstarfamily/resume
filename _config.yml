@@ -17,7 +17,7 @@ resume_contact_email:           "sunamongus@gmail.com"
 resume_contact_telephone:       "//"
 resume_contact_address:         "Mount Shasta, California"
 resume_header_contact_info: "Mount Shasta, California | // | sunamongus@gmail.com"
-resume_header_intro: "<p>&#10051; Having fun living life just like Galileo charted the stars.</p>"
+resume_header_intro: "<p> <span style='font-size:100px;'>&#10051;</span> Having fun living life and loving it. </p>"
 
 
 # use "yes" to display the email contact button,
@@ -35,7 +35,7 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
