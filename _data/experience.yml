@@ -1,11 +1,10 @@
-# Jobs
 
-# Trainer
+
+
 - company: GitHub, Inc.
-  position: GitHub Trainer
+  position: Learning
   duration: March, 2012 &mdash; Present
-  summary: Teach all things Git, give away all the stickers, ensure world peace.
-
+  summary: completed most of github learning labs and am having fun learning git integrations
 
 
 # Job Title
@@ -15,8 +14,13 @@
   summary: Web developer for a eco-nonprofit 
 
 # Supportocat
-- company: 
-  position: 
-  duration:  June 2016 &mdash; Present
-  summary: 
+- company: Unity Software
+  position: Learning
+  duration:  June 2018 &mdash; Present
+  summary: Creating and Managing Unity projects
+  
+- company: W3Schools
+  position: student
+  duration: jan 2017 &mdash; Present
+  summary: gone through courses and quizes through most of site! Proficient in html, css, javascript, php, and solidity.
 
