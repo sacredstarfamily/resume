@@ -1,9 +1,10 @@
 # Skills
 
 # Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
-
+- skill: front end development
+  description: have a good amount of front end design skills. fluent in html, css, js, php, c#, kotlin, swift
 # Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+- skill: blockchain development
+  description: Effiecient in writing and deploying Solidity Smart Contracts.
+- skill: social butterfly
+  description: working on an developing social networking platforms experienced with social api integration
